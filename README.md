@@ -1,4 +1,5 @@
 # AskTheVideo 🎥
+[Live Link of Application](https://ask-the-video.streamlit.app/)
 
 An AI-powered Q&A application that allows you to ask questions about YouTube videos. The app fetches video transcripts, processes them using RAG (Retrieval Augmented Generation), and provides intelligent answers based on the video content.
 
